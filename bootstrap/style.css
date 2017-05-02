@@ -1,0 +1,20 @@
+body{
+	margin:0;
+}
+
+.logo{
+	width:50px;
+	height: 20px;
+	margin:0;
+}
+.searchInput{
+	width:100px;
+	
+	
+}
+.form_input{
+	float:left;
+}
+.navbar-brand {
+	padding: 13px 15px;
+}
